@@ -96,6 +96,8 @@ an awesome list of free SaaS (software as a service) for you.
 - [Mockplus](https://www.mockplus.cn/) - Whole process design, prototype design
 -
 
+- [TinyTools](https://tinytools-smoky.vercel.app/) - Free browser-based design utilities: OG image generator, favicon generator, color palette generator, SEO meta tag generator, AI background remover (runs locally, no upload), AI cost calculator, AI content disclosure generator (EU AI Act compliant). No signup, open source.
+
 ## CRM
 
 - [Fanxiang Sales](http://fxiaoke.com/) - CRM SaaS, Connected CRM Quality Service Provider
